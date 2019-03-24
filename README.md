@@ -3,16 +3,17 @@
 [v] simple python+flask application<br/>
 [v] put project in docker container via docker build+Dockerfile<br/>
 [v] jenkins with simple task <br/>
-[o] move jenkins from Kasumi to Haruna (docker?) <br/>
-[o] move project in docker to aws <br/>
-[o] start project on aws only in use. via jenkins? <br/>
-[o] configure webhooks on github<br/>
-[o] project rebuild, if new commit, and restart docker container if necessary (aws+jenkins+docker-no balance) <br/>
+[v] move jenkins from Kasumi to Haruna (docker?) <br/>
+[v] configure webhooks on github<br/>
+[v] project rebuild, if new commit, and restart docker container if necessary (jenkins+docker-no balance) <br/>
+[o] jenkins web face is horrible, need to know how to use CLI <br/>
 [o] unit test in jenkins? more stages? <br/>
 [o] mb it's time to add postgresql to project? just for fun <br/>
 
 [next steps...] <br/>
-
+[o] move project in docker to aws --later<br/>
+[o] start project on aws only in use. via jenkins? <br/>
+gitlab?
 Добавим тестов в jenkins: как минимум можно прогонять lint по нашему коду или набросать unit тесты.
 
 Переключимся на настройку dev окружения. Берем в руки ansible/chef/puppet/salt и настраиваем виртуалку с нуля: создаем пользователей, устанавливаем необходимые библиотеки и зависимости.
