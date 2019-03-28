@@ -1,15 +1,17 @@
 # DevOpsPlan
-<b>To do</b><br/>
+<b>small practice jenkins+flask+python (Debian)</b><br/>
 [v] simple python+flask application<br/>
 [v] put project in docker container via docker build+Dockerfile<br/>
 [v] jenkins with simple task <br/>
 [v] move jenkins from Kasumi to Haruna (docker?) <br/>
 [v] configure webhooks on github<br/>
 [v] project rebuild, if new commit, and restart docker container if necessary (jenkins+docker-no balance) <br/>
+<hr/>
+
+
 [o] jenkins web face is horrible, need to know how to use CLI <br/>
 [o] unit test in jenkins? more stages? <br/>
 [o] mb it's time to add postgresql to project? just for fun <br/>
-
 [next steps...] <br/>
 [o] move project in docker to aws --later<br/>
 [o] start project on aws only in use. via jenkins? <br/>

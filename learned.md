@@ -1,14 +1,17 @@
 Список видео и курсов, которые были просмотрены\пройдены и оказались полезными.
 
--- Курсы:
+-- Курсы/статьи:
 
-- Закончил:
+- Закончил/прочел:
+Переквалификация в DevOps – к чему себя готовить / Хабр
+https://habr.com/ru/company/epam_systems/blog/445436/
 
 - В процессе:
-https://learn.chef.io/
 https://www.aws.training/
 
+
 - В планах:
+https://learn.chef.io/
 Лабораторная работа по изучению RAID, LVM
 https://github.com/bykvaadm/OS/tree/master/admin/lab2
 6 занимательных системных багов при эксплуатации Kubernetes [и их решение]
