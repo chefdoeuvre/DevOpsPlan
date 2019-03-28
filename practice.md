@@ -5,40 +5,34 @@
 [v] jenkins with simple task <br/>
 [v] move jenkins from Kasumi to Haruna (docker?) <br/>
 [v] configure webhooks on github<br/>
-[v] project rebuild, if new commit, and restart docker container if necessary (jenkins+docker-no balance) <br/>
+[v] project rebuild, if new commit, and restart docker container if necessary (jenkins+docker-no balance)<br/>
 <hr/>
 <b>AWS+puppet</b>
 [o] create 2 hosts (instances) on aws via CLI <br/>
 [o] install puppetserver on first, and agent on second <br/>
 [o] make some practice \0/ <br/>
 
-[o] jenkins web face is horrible, need to know how to use CLI <br/>
-[o] unit test in jenkins? more stages? <br/>
-[o] mb it's time to add postgresql to project? just for fun <br/>
-[next steps...] <br/>
-[o] move project in docker to aws --later<br/>
-[o] start project on aws only in use. via jenkins? <br/>
-gitlab?
+<hr/>
+[next steps]
+Ansible+GCloud ?
+
+<hr/>
+План-шаблон, чтобы не потерять:
+
+Сразу напишем небольшое приложение. Язык выбираем абсолютно любой. Приложение будет отдавать информацию о пользователях через HTTP. По сути, простенькое API.
+Теперь давайте добавим работу с базой: пусть наши пользователи хранятся в базе. Идеально структуру базы хранить рядом с кодом и научиться прогонять миграции при новых изменениях. Таким образом ваше приложение само синхронизирует базу до нужной структуры.
+Регистрируемся на github.com/bitbucket.org и закидываем весь исходный код нашего приложения туда.
+На своей машине поднимаем jenkins/teamcity и настраиваем автоматическую сборку приложения из нашего репозитория по кнопке.
+Усложняем задачу. Настроим webhooks на github/bitbucket, которые будут автоматически запускать сборку на jenkins/teamcity.
 Добавим тестов в jenkins: как минимум можно прогонять lint по нашему коду или набросать unit тесты.
-
 Переключимся на настройку dev окружения. Берем в руки ansible/chef/puppet/salt и настраиваем виртуалку с нуля: создаем пользователей, устанавливаем необходимые библиотеки и зависимости.
-
 Подводим все это дело под vagrant: виртуалка должна автоматически подниматься и настраиваться.
-
 Подключаем vagrant к jenkins с помощью соответствующего плагина: при пуше в git наше приложение собирается, и поднимается виртуальное окружение с помощью vagrant + configuration system management.
-
 Ищем best practices по деплою приложений на языке, который вы выбрали. Можно заворачивать все в deb/rpm пакеты, можно деплоить ruby с помощью capistrano. Главное — выбрать решение.
-
 Выбор сделан, реализуем его и конфигурируем jenkins, чтобы после пуша в репозиторий, jenkins, помимо сборки приложения и развертывания окружения, выкладывал и запускал наш код.
-
 Добавляем смоук тесты: после запуска jenkins должен запросить список пользователей у нашего API и убедиться, что получает ответ.
-
 Добавляем мониторинг нашего проекта: изучаем time series базы, настраиваем prometheus, grafana, автоматически подключаем новый инстанс нашего приложения к мониторингу.
-
 Улучшаем мониторинг: интегрируемся со slack и pagerduty, чтобы получать нотификации.
-
 Читаем про докер, пишем Dockerfile и оборачиваем наше приложение.
-
 Изучаем увлекательные статьи про настройку систем оркестрации swarm, kubernetes, rancher cattle. Следуем рекомендациям и поднимаем кластер.
-
 Меняем Jenkins: собираем docker образ, прогоняем тесты, запускаем собранный докер на кластере kubernetes, проводим smoke тесты, вводим наше приложение в балансировку.
