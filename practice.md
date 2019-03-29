@@ -10,6 +10,7 @@
 <b>AWS+puppet/ansible(?)</b> <br/>
 [v] aws configuration/credentials/Ec2InstanceMetadata/roles(IAM)/vpc/subnets/route table and etc
 [v] practice w/ creating hosts (instances) via aws CLI <br/>
+[v] 1 aws amazon, 1 mgmt for puppet ansible server (ubuntu again), 2 ubuntu as clients <br/>
 [o] install puppet/ansible <br/>
 [o] make some practice \0/ <br/>
 
