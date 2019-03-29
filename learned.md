@@ -7,7 +7,8 @@
     https://habr.com/ru/company/epam_systems/blog/445436/
 
 В процессе:
-- https://www.aws.training/
+- https://www.aws.training/ <br/>
+DevOps Engineering on AWS 30%
 
 
 В планах:
