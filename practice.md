@@ -7,9 +7,10 @@
 [v] configure webhooks on github<br/>
 [v] project rebuild, if new commit, and restart docker container if necessary (jenkins+docker-no balance)<br/>
 <hr/>
-<b>AWS+puppet</b> <br/>
-[o] create 2 hosts (instances) on aws via CLI <br/>
-[o] install puppetserver on first, and agent on second <br/>
+<b>AWS+puppet/ansible(?)</b> <br/>
+[v] aws configuration/credentials/Ec2InstanceMetadata/roles(IAM)/vpc/subnets/route table and etc
+[v] practice w/ creating hosts (instances) via aws CLI <br/>
+[o] install puppet/ansible <br/>
 [o] make some practice \0/ <br/>
 
 <hr/>
