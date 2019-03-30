@@ -12,6 +12,7 @@ DevOps Engineering on AWS 30%
 
 
 В планах:
+- https://cloud.google.com/training/ <br/>
 - Лабораторная работа по изучению RAID, LVM (проверить, есть ли там что новое для меня) <br/>
     https://github.com/bykvaadm/OS/tree/master/admin/lab2
 - 6 занимательных системных багов при эксплуатации Kubernetes [и их решение] <br/>
