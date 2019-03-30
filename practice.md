@@ -12,10 +12,12 @@
 [v] practice w/ creating and manage hosts (instances) via AWS CLI <br/>
 [v] 1 aws amazon, 1 mgmt for puppet/ansible server (ubuntu again), 2 ubuntu srvrs as clients <br/>
 [v] practice w/ ansible/ansible-playbook/raw command <br/>
-[o] practice w/ puppet \0/ <br/>
+[~] practice w/ puppet \0/ (need > 1Gb ram :\ ) -- later <br/>
 <hr/>
 <b>GCP+Kubernetes/kubectl</b>
 [o] in progress..
+
+<br/>(heroku,prometheus,k8s,chef)<br/>
 
 <hr/>
 План-шаблон, чтобы не потерять:
