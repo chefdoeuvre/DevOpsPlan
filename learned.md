@@ -37,7 +37,6 @@ DevOps Engineering on AWS 30%
     https://www.youtube.com/watch?v=LSgmwgSbGjQ
 
 В процессе:
-
 - Вводный практикум по Ansible. Озеров Василий (площадка rebrain)
     https://www.youtube.com/watch?v=VjHObhI4wrU
 
