@@ -33,10 +33,11 @@ DevOps Engineering on AWS 30%
     https://www.youtube.com/watch?v=7GLP8_UEBp4
 - Введение в Kubernetes - Discovery - Javascript.Ninja [пересмотреть, когда GCP+kube] <br/>
     https://www.youtube.com/watch?v=L3tgJXsMUTU
-
-В процессе:
 - DevOps. IaC (puppet) <br/>
     https://www.youtube.com/watch?v=LSgmwgSbGjQ
+
+В процессе:
+
 - Вводный практикум по Ansible. Озеров Василий (площадка rebrain)
     https://www.youtube.com/watch?v=VjHObhI4wrU
 
