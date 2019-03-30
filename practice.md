@@ -1,5 +1,5 @@
 # DevOpsPlan
-<b>small practice jenkins+flask+python (Debian)</b><br/>
+<b>small practice jenkins+flask+python (Debian)+docker</b><br/>
 [v] simple python+flask application<br/>
 [v] put project in docker container via docker build+Dockerfile<br/>
 [v] jenkins with simple task <br/>
@@ -7,16 +7,15 @@
 [v] configure webhooks on github<br/>
 [v] project rebuild, if new commit, and restart docker container if necessary (jenkins+docker-no balance)<br/>
 <hr/>
-<b>AWS+puppet/ansible(?)</b> <br/>
-[v] aws configuration/credentials/Ec2InstanceMetadata/roles(IAM)/vpc/subnets/route table and etc
-[v] practice w/ creating hosts (instances) via aws CLI <br/>
-[v] 1 aws amazon, 1 mgmt for puppet ansible server (ubuntu again), 2 ubuntu as clients <br/>
-[o] install puppet/ansible <br/>
-[o] make some practice \0/ <br/>
-
+<b>AWS+puppet/ansible</b> <br/>
+[v] AWS configuration/credentials/Ec2InstanceMetadata/roles(IAM)/vpc/subnets/route table and etc
+[v] practice w/ creating and manage hosts (instances) via AWS CLI <br/>
+[v] 1 aws amazon, 1 mgmt for puppet/ansible server (ubuntu again), 2 ubuntu srvrs as clients <br/>
+[v] practice w/ ansible/ansible-playbook/raw command <br/>
+[o] practice w/ puppet \0/ <br/>
 <hr/>
-[next steps]
-Ansible+GCloud ?
+<b>GCP+Kubernetes/kubectl</b>
+[o] in progress..
 
 <hr/>
 План-шаблон, чтобы не потерять:
