@@ -11,13 +11,13 @@
 [v] AWS configuration/credentials/Ec2InstanceMetadata/roles(IAM)/vpc/subnets/route table and etc
 [v] practice w/ creating and manage hosts (instances) via AWS CLI <br/>
 [v] 1 aws amazon, 1 mgmt for puppet/ansible server (ubuntu again), 2 ubuntu srvrs as clients <br/>
-[v] practice w/ ansible/ansible-playbook/raw command <br/>
-[~] practice w/ puppet \0/ (need > 1Gb ram :\ ) -- later <br/>
+[v] practice w/ ansible/ansible-playbook/raw commands<br/>
+[~] practice w/ puppet \0/ -- later <br/>
 <hr/>
 <b>GCP+Kubernetes/kubectl</b>
 [o] in progress..
 
-<br/>(heroku,prometheus,k8s,chef)<br/>
+<br/>(heroku,prometheus,k8s,chef, azure)<br/>
 
 <hr/>
 План-шаблон, чтобы не потерять:
