@@ -42,8 +42,9 @@ DevOps Engineering on AWS 38% <br/>
     https://www.youtube.com/watch?v=3DO3SXg8AhM
 
 В процессе:
-- Вводный практикум по Ansible. Озеров Василий (площадка rebrain)
-    https://www.youtube.com/watch?v=VjHObhI4wrU
+https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy?hl=ru 
+- Вводный практикум по Ansible. Озеров Василий (площадка rebrain) <br/>
+    https://www.youtube.com/watch?v=VjHObhI4wrU <br/>
 
 Собираюсь просмотреть
 - Вводный практикум по Kubernetes. Озеров Василий (площадка rebrain) <br/>
