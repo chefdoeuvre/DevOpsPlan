@@ -11,7 +11,7 @@
 - https://www.aws.training/ <br/>
 DevOps Engineering on AWS 38% <br/>
 -- https://policysim.aws.amazon.com <br/>
-
+https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy?hl=ru 
 
 
 В планах:
@@ -40,15 +40,15 @@ DevOps Engineering on AWS 38% <br/>
     https://www.youtube.com/watch?v=LSgmwgSbGjQ
 - GitLab CI/CD. На примере одного проекта. <br/>
     https://www.youtube.com/watch?v=3DO3SXg8AhM
-
-В процессе:
-https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy?hl=ru 
 - Вводный практикум по Ansible. Озеров Василий (площадка rebrain) <br/>
     https://www.youtube.com/watch?v=VjHObhI4wrU <br/>
-
-Собираюсь просмотреть
 - Вводный практикум по Kubernetes. Озеров Василий (площадка rebrain) <br/>
     https://www.youtube.com/watch?v=q7HTKiRQ6cg
+
+В процессе:
+
+Собираюсь просмотреть
+
 - Demo: CI/CD with GitLab <br/>
     https://www.youtube.com/watch?v=1iXFbchozdY
 - Базы данных и Kubernetes / Дмитрий Столяров (Флант) <br/>
