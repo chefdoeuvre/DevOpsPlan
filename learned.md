@@ -52,7 +52,6 @@ https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy
 В процессе:
 
 Собираюсь просмотреть
-
 - Demo: CI/CD with GitLab <br/>
     https://www.youtube.com/watch?v=1iXFbchozdY
 - Базы данных и Kubernetes / Дмитрий Столяров (Флант) <br/>
