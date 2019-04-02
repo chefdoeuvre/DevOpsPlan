@@ -4,7 +4,11 @@
 
 Закончил/прочел:
 - Переквалификация в DevOps – к чему себя готовить / Хабр <br/>
-    https://habr.com/ru/company/epam_systems/blog/445436/
+    https://habr.com/ru/company/epam_systems/blog/445436/ <br/>
+- gitlab CI <br/>
+https://habr.com/ru/company/Voximplant/blog/332792/<br/>
+https://habr.com/ru/company/softmart/blog/310502/ <br/>
+https://habr.com/ru/company/softmart/blog/309380/ <br/>
 
 
 В процессе:

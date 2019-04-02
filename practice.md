@@ -14,7 +14,8 @@
 [v] practice w/ ansible/ansible-playbook/raw commands<br/>
 [~] practice w/ puppet \0/ -- later <br/>
 <hr/>
-<b>GCP+Kubernetes/kubectl</b>
+<b>GCP+Kubernetes/kubectl</b> <br/>
+[o] gcloud CE, cli, kubectl, pods\deployment\service\cluster\etc. <br/>
 [o] in progress..
 
 <br/>(heroku,prometheus,k8s,chef, azure)<br/>
