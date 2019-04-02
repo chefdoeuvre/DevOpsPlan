@@ -38,7 +38,7 @@ https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy
     https://www.youtube.com/watch?v=U7Zo_e28aQA
 - Возможности программного обеспечения Docker GeekBrains <br/>
     https://www.youtube.com/watch?v=7GLP8_UEBp4
-- Введение в Kubernetes - Discovery - Javascript.Ninja [пересмотреть, когда GCP+kube] <br/>
+- Введение в Kubernetes - Discovery - Javascript.Ninja [пересмотрено] <br/>
     https://www.youtube.com/watch?v=L3tgJXsMUTU
 - DevOps. IaC (puppet) <br/>
     https://www.youtube.com/watch?v=LSgmwgSbGjQ
