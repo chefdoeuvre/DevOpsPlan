@@ -16,6 +16,8 @@ https://habr.com/ru/company/softmart/blog/309380/ <br/>
 DevOps Engineering on AWS 38% <br/>
 -- https://policysim.aws.amazon.com <br/>
 https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy?hl=ru 
+- https://kubernetes.io/docs/tutorials/
+- https://kubernetes.io/docs/tutorials/kubernetes-basics
 
 
 В планах:
@@ -48,6 +50,8 @@ https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy
     https://www.youtube.com/watch?v=VjHObhI4wrU <br/>
 - Вводный практикум по Kubernetes. Озеров Василий (площадка rebrain) <br/>
     https://www.youtube.com/watch?v=q7HTKiRQ6cg
+- Agile и Scrum на пальцах / О ГИБКИХ методологиях разработки ПО понятным языком <br/>
+    https://www.youtube.com/watch?v=cDvZaXzQezs
 
 В процессе:
 
