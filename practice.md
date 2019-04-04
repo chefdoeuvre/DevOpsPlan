@@ -17,20 +17,15 @@
 <b>GCP+Kubernetes/kubectl</b> <br/>
 [v] gcloud CE, cli, kubectl, pods\deployment\service\cluster\etc. <br/>
 [v] Ingress(Service(deployment(docker image(flask+python)))) %_% <br/>
-<<<<<<< HEAD
-[v] kubernetes basic tutorial kubernetes.io (minikube) <br/>
-[o] in progress..
-=======
 [o] in progress.. <br/>
 <hr/>
 DB:
-[o] Nginx, is cheatsheet exist?<br/>
-[o] Docker repeat + cheatsheet<br/>
-[o] bash cheatshett + regex<br/>
-[o] kafka <br/>
-[o] Grafana <br/>
+[v] Nginx, is cheatsheet exists?<br/>
+[v] Docker repeat + cheatsheet<br/>
+[o] bash cheatsheet + regex<br/>
+[o] kafka, try at home? <br/>
+[o] Grafana - inprogress <br/>
 [o] Jenkins repeat + cheatsheet <br/>
->>>>>>> c43bcf28b495f921019c2013e314e7ce9ca10f7f
 
 <br/>(heroku,prometheus,k8s,chef, azure)<br/>
 
