@@ -9,6 +9,7 @@
 https://habr.com/ru/company/Voximplant/blog/332792/<br/>
 https://habr.com/ru/company/softmart/blog/310502/ <br/>
 https://habr.com/ru/company/softmart/blog/309380/ <br/>
+- https://kubernetes.io/docs/tutorials/kubernetes-basics
 
 
 В процессе:
@@ -17,7 +18,7 @@ DevOps Engineering on AWS 38% <br/>
 -- https://policysim.aws.amazon.com <br/>
 https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy?hl=ru 
 - https://kubernetes.io/docs/tutorials/
-- https://kubernetes.io/docs/tutorials/kubernetes-basics
+
 
 
 В планах:
