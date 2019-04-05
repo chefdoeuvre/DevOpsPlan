@@ -24,7 +24,7 @@ docker(nginx)->docker(kafka)->docker(grafana)
 [v] Nginx, is cheatsheet exists?<br/>
 [v] Docker repeat + cheatsheet<br/>
 [o] bash cheatsheet + regex<br/>
-[v] nginx -> var/log -> filebeat -> kafka, try at home? <br/>
+[v] nginx -> var/log -> filebeat -> kafka, completed <br/>
 [o] Grafana - inprogress <br/>
 [o] Jenkins repeat + cheatsheet <br/>
 
