@@ -20,13 +20,12 @@
 [o] in progress.. <br/>
 <hr/>
 DB:
-docker(nginx)->docker(kafka)->docker(grafana)
-[v] Nginx, is cheatsheet exists?<br/>
-[v] Docker repeat + cheatsheet<br/>
-[o] bash cheatsheet + regex<br/>
+[v] Nginx<br/>
+[v] Docker repeat <br/>
+[o] regex<br/>
 [v] nginx -> var/log -> filebeat -> kafka, completed <br/>
 [o] Grafana - inprogress <br/>
-[o] Jenkins repeat + cheatsheet <br/>
+[o] Jenkins: local git-jenkins-nginx <br/>
 
 <br/>(heroku,prometheus,k8s,chef, azure)<br/>
 
