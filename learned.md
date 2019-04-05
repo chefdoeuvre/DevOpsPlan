@@ -3,31 +3,30 @@
 -- Курсы/статьи:
 
 Закончил/прочел:
-- Переквалификация в DevOps – к чему себя готовить / Хабр <br/>
-    https://habr.com/ru/company/epam_systems/blog/445436/ <br/>
-- gitlab CI <br/>
+Переквалификация в DevOps – к чему себя готовить / Хабр <br/>
+https://habr.com/ru/company/epam_systems/blog/445436/ <br/>
+gitlab CI <br/>
 https://habr.com/ru/company/Voximplant/blog/332792/<br/>
 https://habr.com/ru/company/softmart/blog/310502/ <br/>
 https://habr.com/ru/company/softmart/blog/309380/ <br/>
-- https://kubernetes.io/docs/tutorials/kubernetes-basics
-
+https://kubernetes.io/docs/tutorials/kubernetes-basics <br/>
+https://cloud.google.com/solutions/jenkins-on-kubernetes-engine-tutorial <br/>
+https://cloud.google.com/solutions/continuous-delivery-jenkins-kubernetes-engine <br/>
 
 В процессе:
 - https://www.aws.training/ <br/>
-DevOps Engineering on AWS 38% <br/>
+DevOps Engineering on AWS 41% <br/>
 -- https://policysim.aws.amazon.com <br/>
 https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy?hl=ru 
-- https://kubernetes.io/docs/tutorials/
-
-
 
 В планах:
-- https://cloud.google.com/training/ <br/>
+https://cloud.google.com/solutions/jenkins-on-kubernetes-engine <br/>
+https://cloud.google.com/docs/tutorials#jenkins <br/>
+https://cloud.google.com/training/ <br/>
 - Лабораторная работа по изучению RAID, LVM (проверить, есть ли там что новое для меня) <br/>
     https://github.com/bykvaadm/OS/tree/master/admin/lab2
 - 6 занимательных системных багов при эксплуатации Kubernetes [и их решение] <br/>
     https://habr.com/ru/company/flant/blog/443458/
-
 
 
 -- Вебинары/конференции/тренинги:
@@ -53,8 +52,6 @@ https://cloud.google.com/resource-manager/docs/cloud-platform-resource-hierarchy
     https://www.youtube.com/watch?v=q7HTKiRQ6cg
 - Agile и Scrum на пальцах / О ГИБКИХ методологиях разработки ПО понятным языком <br/>
     https://www.youtube.com/watch?v=cDvZaXzQezs
-
-В процессе:
 
 Собираюсь просмотреть
 - Demo: CI/CD with GitLab <br/>
