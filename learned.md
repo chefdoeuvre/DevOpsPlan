@@ -52,6 +52,7 @@ https://cloud.google.com/training/ <br/>
     https://www.youtube.com/watch?v=q7HTKiRQ6cg
 - Agile и Scrum на пальцах / О ГИБКИХ методологиях разработки ПО понятным языком <br/>
     https://www.youtube.com/watch?v=cDvZaXzQezs
+- Continuous Delivery Best Practices with Jenkins and GKE (Cloud Next '18)
 
 Собираюсь просмотреть
 - Demo: CI/CD with GitLab <br/>
