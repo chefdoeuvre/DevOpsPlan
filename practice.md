@@ -14,7 +14,7 @@
 [v] practice w/ ansible/ansible-playbook/raw commands<br/>
 [~] practice w/ puppet \0/ -- later <br/>
 <hr/>
-<b>GCP+Kubernetes/kubectl</b> <br/>
+<b>GCP+Kubernetes/kubectl (GKE)</b> <br/>
 [v] gcloud CE, cli, kubectl, pods\deployment\service\cluster\etc. <br/>
 [v] Ingress(Service(deployment(docker image(flask+python)))) %_% <br/>
 [o] in progress.. <br/>
@@ -22,10 +22,9 @@
 DB:
 [v] Nginx<br/>
 [v] Docker repeat <br/>
-[o] regex<br/>
 [v] nginx -> var/log -> filebeat -> kafka, completed <br/>
 [o] Grafana - inprogress <br/>
-[o] Jenkins: local git-jenkins-nginx <br/>
+[~] Jenkins: local git-jenkins-nginx <br/>
 
 <br/>(heroku,prometheus,k8s,chef, azure)<br/>
 
