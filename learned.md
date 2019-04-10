@@ -32,6 +32,8 @@
 -- Вебинары/конференции/тренинги:
 
 Закончил:
+- Как стать тимлидом / Андрей Рыжкин (AGIMA) (очень полезно) <br/>
+    https://www.youtube.com/watch?v=WEj7WQxGq24
 - Собираем Docker-образы быстро и удобно / Дмитрий Столяров (Флант) <br/>
     https://www.youtube.com/watch?v=7K6tW_Enhwg
 - jenkins/LPIC101/LPIC102/LPIC201 <br/>
