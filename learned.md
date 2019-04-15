@@ -62,7 +62,6 @@
     https://www.youtube.com/watch?v=1iXFbchozdY
 - Базы данных и Kubernetes / Дмитрий Столяров (Флант) <br/>
     https://www.youtube.com/watch?v=7CR5eH6a8Fo
-
 - Postgres vs Mongo / Олег Бартунов (Postgres Professional) <br/>
     https://www.youtube.com/watch?v=SNzOZKvFZ68
 - Наш опыт с Kubernetes в небольших проектах (Флант, RootConf 2017) <br/>
