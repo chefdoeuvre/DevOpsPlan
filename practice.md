@@ -23,10 +23,10 @@ DB:
 [v] Nginx<br/>
 [v] Docker repeat <br/>
 [v] nginx -> var/log -> filebeat -> kafka, completed <br/>
-[o] Grafana - inprogress <br/>
+[v] Grafana, try. <br/>
 [~] Jenkins: local git-jenkins-nginx <br/>
 
-<br/>(heroku,prometheus,k8s,chef, azure)<br/>
+<br/>(heroku,prometheus,k8s,chef, azure, helm)<br/>
 
 <hr/>
 План-шаблон, чтобы не потерять:

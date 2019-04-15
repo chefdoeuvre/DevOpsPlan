@@ -53,14 +53,16 @@
 - Agile и Scrum на пальцах / О ГИБКИХ методологиях разработки ПО понятным языком <br/>
     https://www.youtube.com/watch?v=cDvZaXzQezs
 - Continuous Delivery Best Practices with Jenkins and GKE (Cloud Next '18)
+- Курс по Ansible
+- ТОП ошибок в инфраструктуре, мешающих высоким нагрузкам / Андрей Половов (Флант) <br/>
+    https://www.youtube.com/watch?v=3fJ5ptx5g7M
 
 Собираюсь просмотреть
 - Demo: CI/CD with GitLab <br/>
     https://www.youtube.com/watch?v=1iXFbchozdY
 - Базы данных и Kubernetes / Дмитрий Столяров (Флант) <br/>
     https://www.youtube.com/watch?v=7CR5eH6a8Fo
-- ТОП ошибок в инфраструктуре, мешающих высоким нагрузкам / Андрей Половов (Флант) <br/>
-    https://www.youtube.com/watch?v=3fJ5ptx5g7M
+
 - Postgres vs Mongo / Олег Бартунов (Postgres Professional) <br/>
     https://www.youtube.com/watch?v=SNzOZKvFZ68
 - Наш опыт с Kubernetes в небольших проектах (Флант, RootConf 2017) <br/>
