@@ -17,6 +17,7 @@
 - DevOps Engineering on AWS 41% 
     https://www.aws.training/ <br/>
     https://policysim.aws.amazon.com <br/>
+- https://learn.chef.io
 
 В планах:
 - https://cloud.google.com/solutions/jenkins-on-kubernetes-engine <br/>
@@ -58,6 +59,9 @@
 - Курс по Ansible
 - ТОП ошибок в инфраструктуре, мешающих высоким нагрузкам / Андрей Половов (Флант) <br/>
     https://www.youtube.com/watch?v=3fJ5ptx5g7M
+- Лучшие практики Continuous Delivery с Docker / Дмитрий Столяров (Флант) <br/>
+    https://www.youtube.com/watch?v=FVFhqb1CbRc
+- Курс Внедрение инфраструктурных решений Microsoft Azure (70-533) не стоит того
 
 Собираюсь просмотреть
 - Demo: CI/CD with GitLab <br/>
