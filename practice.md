@@ -31,6 +31,8 @@ chef+Azure <br/>
 [v] https://learn.chef.io/modules/learn-the-basics#/infrastructure-automation <br/>
 [o] https://learn.chef.io/modules/manage-a-node-chef-automate/windows/azure#/ <br/>
 
-<br/>(heroku,prometheus,k8s,chef, azure, helm)<br/>
+
+
+<br/>next steps (heroku,prometheus,k8s,helm)<br/>
 
 <hr/>
