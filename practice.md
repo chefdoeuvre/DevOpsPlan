@@ -19,12 +19,17 @@
 [v] Ingress(Service(deployment(docker image(flask+python)))) %_% <br/>
 [o] in progress.. <br/>
 <hr/>
-DB:
+DB:<br/>
 [v] Nginx<br/>
 [v] Docker repeat <br/>
 [v] nginx -> var/log -> filebeat -> kafka, completed <br/>
 [v] Grafana, try. <br/>
 [~] Jenkins: local git-jenkins-nginx <br/>
+<hr/>
+chef+Azure <br/>
+[v] https://learn.chef.io/modules/try-chef#/demos-and-quickstarts <br/>
+[v] https://learn.chef.io/modules/learn-the-basics#/infrastructure-automation <br/>
+[o] https://learn.chef.io/modules/manage-a-node-chef-automate/windows/azure#/ <br/>
 
 <br/>(heroku,prometheus,k8s,chef, azure, helm)<br/>
 

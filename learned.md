@@ -61,7 +61,7 @@
     https://www.youtube.com/watch?v=3fJ5ptx5g7M
 - Лучшие практики Continuous Delivery с Docker / Дмитрий Столяров (Флант) <br/>
     https://www.youtube.com/watch?v=FVFhqb1CbRc
-- Курс Внедрение инфраструктурных решений Microsoft Azure (70-533) не стоит того
+- Курс Внедрение инфраструктурных решений Microsoft Azure (70-533) не стоит того, что бы смотреть
 
 Собираюсь просмотреть
 - Demo: CI/CD with GitLab <br/>
