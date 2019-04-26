@@ -18,6 +18,7 @@
     https://www.aws.training/ <br/>
     https://policysim.aws.amazon.com <br/>
 - https://learn.chef.io
+- https://medium.com/@devopslearning (100 Days of DevOps )
 
 В планах:
 - https://cloud.google.com/solutions/jenkins-on-kubernetes-engine <br/>
